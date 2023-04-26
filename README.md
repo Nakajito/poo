@@ -44,3 +44,5 @@ Un elemento dependerá de muchos otros. Aquí tomamos como referencia la multipl
 ### Composición
 Una de estas clases no podría vivir si no existiera la otra.
 
+#### DRY: Don't Repeat Yourself
+Nunca deberia ser duplicada la información, ya que incrementa la dificultad en los cambios y evolución
